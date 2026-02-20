@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary:  linear-gradient(#4134F6, #5E07AA, #17022A);
+} 
+
+.bgs-primary {
+  background: var(--color-primary);
+}
+
+
+.abhaya {
+  font-family: "Abhaya Libre", serif;
+  font-weight: 800;
+  font-style: normal;
+}
